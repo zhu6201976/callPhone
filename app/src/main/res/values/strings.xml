@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="hint">please_input_the_phone_number</string>
+    <string name="callphone">callPhone</string>
+</resources>
